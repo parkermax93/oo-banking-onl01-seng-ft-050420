@@ -1,8 +1,8 @@
 class Transfer
   
-  attr_accessor :xfer
+  attr_accessor :transfer
   
-  def initialize(xfer)
-    @xfer = xfer
+  def initialize(transfer)
+    @transfer = transfer
   end
 end
