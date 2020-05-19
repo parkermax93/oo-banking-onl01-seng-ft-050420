@@ -2,5 +2,5 @@ class Transfer
   
   attr 
   
-  def initialize(
+  def initialize()
 end
